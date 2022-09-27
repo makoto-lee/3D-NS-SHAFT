@@ -21,5 +21,5 @@ Try to survival as long as you cant to get higher score!
 
 Gaming scene:
 
-<img src="https://i.imgur.com/FACiAkf.png" width="200">
-<img src="https://i.imgur.com/ra9oEO6.jpg" width="200">
+<img src="https://i.imgur.com/FACiAkf.png" width="600">
+<img src="https://i.imgur.com/ra9oEO6.jpg" width="600">
