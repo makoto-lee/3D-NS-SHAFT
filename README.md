@@ -18,3 +18,6 @@ There are kinds of block in it like:
 * a jumping board block
 
 Try to survival as long as you cant to get higher score!
+
+Gaming scene:
+![]()
