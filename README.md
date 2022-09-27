@@ -20,4 +20,5 @@ There are kinds of block in it like:
 Try to survival as long as you cant to get higher score!
 
 Gaming scene:
-![]()
+![](https://i.imgur.com/FACiAkf.png)
+![](https://i.imgur.com/ra9oEO6.jpg)
